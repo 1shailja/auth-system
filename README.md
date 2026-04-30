@@ -3,7 +3,7 @@ Auth System
 Features
 * User Registration & Login
 * JWT Authentication
-* Email Verification (Nodemailer - dev mode disabled)
+* Email Verification 
 * Protected Routes
 
 Tech Stack
