@@ -1,0 +1,9 @@
+<h2>Welcome</h2>
+<button onclick="logout()">Logout</button>
+
+<script>
+function logout() {
+  localStorage.removeItem("token");
+  window.location.href = "login.html";
+}
+</script>
